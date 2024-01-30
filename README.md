@@ -5,7 +5,7 @@
 </h2>
 
 <h1 align="center" >
-    <img width="30%" src="">
+    <img width="30%" src="pokemon-game.gif">
 </h1>
 
 # 📖 Contents
@@ -24,7 +24,18 @@
 
 # 🌄 Demonstration
 
-* **Guessing a pokemon**
+* **Initial screen**
+  
+![Screenshot 2024-01-30 at 16 33 23](https://github.com/Alfareiza/pokemon-game/assets/63620799/2b4857bc-0106-4b4c-9f9d-8bb06f10a0cc)
+
+
+* **Guessing the wrong Pokemon**
+
+![Screenshot 2024-01-30 at 16 33 06](https://github.com/Alfareiza/pokemon-game/assets/63620799/52944de4-8e00-4a52-b466-97c64c74c1fb)
+
+* **Guessing the correct Pokemon**
+
+![Screenshot 2024-01-30 at 16 33 15](https://github.com/Alfareiza/pokemon-game/assets/63620799/6894545f-baa8-43bb-b172-b81867302f5e)
 
 
 <hr>
